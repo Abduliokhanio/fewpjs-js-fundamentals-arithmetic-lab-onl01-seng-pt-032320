@@ -1,3 +1,3 @@
 // Write your code here
 
-multiply 
+multiply = num1*num2
