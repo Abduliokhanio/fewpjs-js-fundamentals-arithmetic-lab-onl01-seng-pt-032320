@@ -1,3 +1,5 @@
 // Write your code here
 
-multiply = num1*num2
+function multiply(a,b){
+  return a * b;
+}
