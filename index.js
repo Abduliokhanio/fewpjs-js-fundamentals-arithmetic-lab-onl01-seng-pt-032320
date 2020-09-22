@@ -6,3 +6,6 @@ const multiply = num1 * num2;
 
 
 const random = Math.floor(Math.random() * 1) + 1;
+
+
+let mod = 24 % 5;
